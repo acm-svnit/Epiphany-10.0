@@ -8,4 +8,4 @@ The repository contains the Editorial along with various solutions to the proble
 - [Epiphany 10.0 Editorial](https://github.com/acm-svnit/Epiphany-10.0/blob/main/Editorial%20of%20Epiphany%2010.0.pdf)
 
 
-### Note : Problem F is a variant of another problem. Please find it here: [Problem Link](https://codeforces.com/contest/901/problem/D)
+Note : Problem F is a variant of another problem. Please find it here: [Problem Link](https://codeforces.com/contest/901/problem/D)
