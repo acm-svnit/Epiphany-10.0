@@ -5,7 +5,9 @@ The repository contains the Editorial along with various solutions to the proble
 
 - [Epiphany 10.0 Final Standings](https://codeforces.com/spectator/ranklist/ab005b0c32266019000e341468e8908c)
 
-- [Epiphany 10.0 Editorial](https://github.com/acm-svnit/Epiphany-10.0/blob/main/Editorial%20of%20Epiphany%2010.0.pdf)
+- [Epiphany 10.0 ProblemSet](https://github.com/acm-svnit/Epiphany-10.0/blob/main/Epiphany%2010.0%20ProblemSet.pdf)
+
+- [Epiphany 10.0 Editorial](https://github.com/acm-svnit/Epiphany-10.0/blob/main/Epiphany%2010.0%20Editorial.pdf)
 
 
 Note : Problem F is a variant of another problem. Please find it here: [Problem Link](https://codeforces.com/contest/901/problem/D)
